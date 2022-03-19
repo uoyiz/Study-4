@@ -1,2 +1,2 @@
-
-os.system('python function_20373313')
+import os
+os.system('python function_20373313.py')
