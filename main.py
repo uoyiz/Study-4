@@ -1,1 +1,2 @@
-#main.py
+import os
+os.system('python function_19374047.py')
